@@ -1,5 +1,4 @@
-# actividadGIT
-===
+# _actividadGIT_
 
 repositorio de la actividad de uso de GIT de la asignatura cliente
 
@@ -8,6 +7,8 @@ repositorio de la actividad de uso de GIT de la asignatura cliente
 2. Las metodologías ágiles (XP, Scrum, Kanban, Agile Inception, Design Sprint).
 En qué consisten, explicar cada una **extensamente**.
 3. En grupos de 4, documentar **detalladamente** los patrones de diseño que han sido encomendados. Reflejar en qué grupo se encuentra el autor/a de este documento.
+
+Una frase que me ha marcado este curso fue, > Olvidaros de la existencia de los findes de semana. Olga Martín Moreno
 
 ![no carga la imagen](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/375px-Markdown-mark.svg.png)
 
