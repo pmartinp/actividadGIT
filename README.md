@@ -9,7 +9,7 @@ En qué consisten, explicar cada una **extensamente**.
 3. En grupos de 4, documentar **detalladamente** los patrones de diseño que han sido encomendados. Reflejar en qué grupo se encuentra el autor/a de este documento.
 
 Una frase que me ha marcado en esta actividad fue: 
-> Olvidaros de la existencia de los findes de semana. - Olga Martín Moreno
+> Olvidaros de la existencia de los findes de semana. - Olga Moreno Martín
 
 ![no carga la imagen](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/375px-Markdown-mark.svg.png)
 
